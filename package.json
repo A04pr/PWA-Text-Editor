@@ -5,9 +5,9 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
-    "start": "node server/server.js",
+    "start": "",
     "server": "",
-    "build": "webpack --mode production",
+    "build": "",
     "install": "",
     "client": ""
   },
